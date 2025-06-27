@@ -32,7 +32,7 @@ Build a binary classifier using Logistic Regression to predict whether a tumor i
   - Model performance evaluation using multiple metrics
   - Threshold tuning to balance precision and recall
   - ROC Curve and AUC understanding
-  - 
+    
 **Output:**
 [Classification with Logistic Regression.output.pdf](https://github.com/user-attachments/files/20940420/Classification.with.Logistic.Regression.output.pdf)
 
